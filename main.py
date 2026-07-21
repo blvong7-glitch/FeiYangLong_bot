@@ -2,7 +2,8 @@ import os
 import telebot
 
 # ទាញយក Token របស់ Bot
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # ឬប្រើ os.environ.get('BOT_TOKEN')
+TOKEN = "8497128058:AAHRuy0tSu0cfJT78cw-13a5X4qGAX95nQ0
+"  # ឬប្រើ os.environ.get('BOT_TOKEN')
 bot = telebot.TeleBot(TOKEN)
 
 # 1. ស្វ័យប្រវត្តិ៖ ឆ្លើយតបពេលចុច /start
